@@ -1,0 +1,34 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p> Please Answer These Questions</p>
+</div>
+
+<div id="GFG_DIV">
+    <form>
+        <label for="fname">First Name</label><br>
+        <input type="text" id="fname" /> <br>
+        <label for="lname">Last Name</label><br>
+        <input type="text" id="lname" /><br>
+        <label for="coursenumber">Course Number</label><br>
+        <input type="number" id="coursenumber" /><br>
+        <label for="pagenumber">Page Number</label><br>
+        <input type="number" id="pagenumber" /><br>
+        <input type="checkbox" id="doyouneedhelp" name="doyouneedhelp">
+        <label for="doyouneedhelp">Do you need help?</label><br>
+        <label for="positiveexperience">Do you have positive experience?</label><br>
+        <input type="text" id="positiveexperience" /> <br>
+        <label for="feedback">Do you have feedback?</label><br>
+        <input type="text" id="feedback" /> <br>
+        <label for="studyhours">Study Hours</label><br>
+        <input type="number" id="studyhours" /><br>
+    </form>
+</div>
+<div>
+    <button onclick="GFG_Fun()">Submit!</button>
+</div>
