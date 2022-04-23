@@ -1,0 +1,14 @@
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\bin\Debug\netcoreapp3.1\Boolean Logic.exe
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\bin\Debug\netcoreapp3.1\Boolean Logic.deps.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\bin\Debug\netcoreapp3.1\Boolean Logic.runtimeconfig.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\bin\Debug\netcoreapp3.1\Boolean Logic.runtimeconfig.dev.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\bin\Debug\netcoreapp3.1\Boolean Logic.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\bin\Debug\netcoreapp3.1\Boolean Logic.pdb
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.pdb
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.genruntimeconfig.cache
