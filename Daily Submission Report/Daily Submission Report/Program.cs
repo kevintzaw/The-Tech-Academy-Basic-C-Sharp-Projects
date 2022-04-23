@@ -42,7 +42,7 @@ namespace Daily_Submission_Report
             Console.WriteLine("You studied this many hours" + hoursOfStudy);
 
             // Thank You
-            Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!")
+            Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
         }
     }
 }
