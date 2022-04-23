@@ -1,0 +1,13 @@
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Submission\Branching Submission\obj\Debug\netcoreapp3.1\Branching Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Submission\Branching Submission\obj\Debug\netcoreapp3.1\Branching Submission.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Submission\Branching Submission\obj\Debug\netcoreapp3.1\Branching Submission.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Submission\Branching Submission\obj\Debug\netcoreapp3.1\Branching Submission.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Submission\Branching Submission\bin\Debug\netcoreapp3.1\Branching Submission.exe
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Submission\Branching Submission\bin\Debug\netcoreapp3.1\Branching Submission.deps.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Submission\Branching Submission\bin\Debug\netcoreapp3.1\Branching Submission.runtimeconfig.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Submission\Branching Submission\bin\Debug\netcoreapp3.1\Branching Submission.runtimeconfig.dev.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Submission\Branching Submission\bin\Debug\netcoreapp3.1\Branching Submission.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Submission\Branching Submission\bin\Debug\netcoreapp3.1\Branching Submission.pdb
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Submission\Branching Submission\obj\Debug\netcoreapp3.1\Branching Submission.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Submission\Branching Submission\obj\Debug\netcoreapp3.1\Branching Submission.pdb
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Submission\Branching Submission\obj\Debug\netcoreapp3.1\Branching Submission.genruntimeconfig.cache
