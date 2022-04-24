@@ -13,8 +13,8 @@ namespace Daily_Submission_Report
 
             //Course
             Console.WriteLine("What course are you on?");
-            int whatIsCourse = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("You're on course number:" + whatIsCourse);
+            string whatIsCourse = Console.ReadLine();
+            Console.WriteLine("You're on course:" + whatIsCourse);
 
             //Page Number
             Console.WriteLine("What Page Number are you on?");
@@ -22,7 +22,7 @@ namespace Daily_Submission_Report
             Console.WriteLine("You're on page number:" + whatIsPageNumber);
 
             //Do You Need Help?
-            Console.WriteLine("What is your Name? Please Answer with True or False");
+            Console.WriteLine("Do you need help? Please Answer with True or False");
             string doYouNeedHelp = Console.ReadLine();
             Console.WriteLine("You Need Help?: " + doYouNeedHelp);
 
