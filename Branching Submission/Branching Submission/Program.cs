@@ -28,13 +28,13 @@ namespace Branching_Submission
                 Console.WriteLine("What is your Package Length?");
                 int packageLength = Convert.ToInt32(Console.ReadLine());
 
-                if (packageWidth > 50 | packageHeight > 50 | packageLength > 50)
+                if ((packageWidth + packageHeight + packageLength) > 50)
                 {
                     Console.WriteLine("Package too big to be shipped via Package Express.");
                 }
                 else
                 {
-                    int shippingTotal = ((packageHeight * packageLength * packageWeight) / 100);
+                    int shippingTotal = ((packageHeight * packageLength * packageWidth * packageWeight) / 100);
                     //Estimated Total for Shipping
                     Console.WriteLine("Your estimated total for shipping this package is:" + shippingTotal);
                 }
