@@ -1,0 +1,13 @@
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\While Practice Project\While Practice Project\bin\Debug\netcoreapp3.1\While Practice Project.exe
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\While Practice Project\While Practice Project\bin\Debug\netcoreapp3.1\While Practice Project.deps.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\While Practice Project\While Practice Project\bin\Debug\netcoreapp3.1\While Practice Project.runtimeconfig.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\While Practice Project\While Practice Project\bin\Debug\netcoreapp3.1\While Practice Project.runtimeconfig.dev.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\While Practice Project\While Practice Project\bin\Debug\netcoreapp3.1\While Practice Project.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\While Practice Project\While Practice Project\bin\Debug\netcoreapp3.1\While Practice Project.pdb
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\While Practice Project\While Practice Project\obj\Debug\netcoreapp3.1\While Practice Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\While Practice Project\While Practice Project\obj\Debug\netcoreapp3.1\While Practice Project.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\While Practice Project\While Practice Project\obj\Debug\netcoreapp3.1\While Practice Project.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\While Practice Project\While Practice Project\obj\Debug\netcoreapp3.1\While Practice Project.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\While Practice Project\While Practice Project\obj\Debug\netcoreapp3.1\While Practice Project.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\While Practice Project\While Practice Project\obj\Debug\netcoreapp3.1\While Practice Project.pdb
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\While Practice Project\While Practice Project\obj\Debug\netcoreapp3.1\While Practice Project.genruntimeconfig.cache
