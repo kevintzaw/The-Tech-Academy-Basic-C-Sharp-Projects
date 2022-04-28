@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Array_Submission
 {
@@ -7,7 +8,7 @@ namespace Array_Submission
         static void Main(string[] args)
         {
             //dimension of integers
-            int[] numArray = new int[3];
+            int[] numArray = new int[4];
             numArray[0] = 6;
             numArray[1] = 2;
             numArray[2] = 7;
@@ -33,6 +34,22 @@ namespace Array_Submission
             } else {
                 Console.WriteLine("You didn't pick a number from 0-3");
             }
+
+            //list creation
+            Console.WriteLine("Choose a Number from 0-2");
+            string[] authors = { "Mike", "Jeff", "Steve" };
+            List<string> authorList = new List<string>(authors);
+            authorList.Add("Logan");
+            authorList.Add("Jesse");
+            int submitList = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(authors[submitList]);
+
+
+
+
+
+            Console.WriteLine(authorList[0]);
+            Console.ReadLine();
 
         }
     }
