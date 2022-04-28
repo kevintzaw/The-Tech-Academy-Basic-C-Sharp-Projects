@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi-Step Console App", "Multi-Step Console App\Multi-Step Console App.csproj", "{690CDD94-45B6-4A0C-9716-E7966ECA88FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{690CDD94-45B6-4A0C-9716-E7966ECA88FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690CDD94-45B6-4A0C-9716-E7966ECA88FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690CDD94-45B6-4A0C-9716-E7966ECA88FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690CDD94-45B6-4A0C-9716-E7966ECA88FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D2961E2-863C-484F-BB2B-17EBFD58363D}
+	EndGlobalSection
+EndGlobal
