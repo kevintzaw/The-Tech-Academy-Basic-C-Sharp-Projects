@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Multi_Step_Console_App
 {
@@ -21,14 +22,20 @@ namespace Multi_Step_Console_App
             //loop through text
             for (int i = 0; i < People.Length; i++)
             {
+                People[i] = People[i] + userInput;
+            }
+
+            //loop through text
+            for (int i = 0; i < People.Length; i++)
+            {
                 Console.WriteLine(People[i]);
             }
 
             //infinite loop
-            while(true)
-            {
-                Console.WriteLine("Hello! This is an infinite loop!");
-            }
+            //while(true)
+            //{
+                //Console.WriteLine("Hello! This is an infinite loop!");
+            //}
 
             //loop with < operator
             for (int i=0; i<2; i++)
@@ -44,13 +51,14 @@ namespace Multi_Step_Console_App
 
             //loop until finds text in string
             string[] size = { "large", "medium", "small" };
+
+            //Asking User to input text
+            Console.Write("Enter an adjective: ");
+            string inputSize = Console.ReadLine();
+            Console.WriteLine("You entered " + inputSize);
+
             for (int j=0; j<size.Length; j++)
             {
-                //Asking User to input text
-                string inputSize;
-                Console.Write("Enter an adjective: ");
-                userInput = Console.ReadLine();
-                Console.WriteLine("You entered " + inputSize);
 
                 //comparison
                 if (size[j] == inputSize)
@@ -64,19 +72,21 @@ namespace Multi_Step_Console_App
             }
 
             //loop with identical strings
-            List<int> seasons = new List<int>() { "winter", "summer", "spring", "winter" };
+            List<string> seasons = new List<string>() { "winter", "summer", "spring", "winter" };
 
             //Asking User to input text
-            string inputSeason;
             Console.Write("Pick a season: ");
-            userInput = Console.ReadLine();
+            string inputSeason = Console.ReadLine();
             Console.WriteLine("You entered " + inputSeason);
 
             ////////STUCK HERE////////
             //loop through list
-            foreach (int items in seasons)
+            for (int i=0; i<seasons.Count; i++)
             {
-                if (userInput ==)
+                if (seasons[i] == inputSeason)
+                {
+                    Console.WriteLine(i);
+                }
             }
         }
     }
