@@ -79,7 +79,6 @@ namespace Multi_Step_Console_App
             string inputSeason = Console.ReadLine();
             Console.WriteLine("You entered " + inputSeason);
 
-            ////////STUCK HERE////////
             //loop through list
             for (int i=0; i<seasons.Count; i++)
             {
@@ -88,6 +87,15 @@ namespace Multi_Step_Console_App
                     Console.WriteLine(i);
                 }
             }
+
+            //list of strings with identical strings
+            List<string> cars = new List<string>() { "toyota", "ford", "ford" };
+
+            foreach (string brand in cars)
+            {
+                Console.WriteLine(brand);
+            }
+            Console.ReadLine();
         }
     }
 }
