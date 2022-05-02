@@ -2,39 +2,26 @@
 
 namespace Method_Class
 {
-    
-    //Create a class
-    public class newClass
-    {
-        public static void twoIntegers(int firstInteger = 3, int secondInteger = 9)
-        {
-            //math operation on first integer
-            int resultInteger = firstInteger + 7;
-            //display the second integer on the screen
-            Console.WriteLine(secondInteger);
-        }
-
-        static void Main(string[] args)
-        {
-            //instantiate the class
-            newClass newInstantiate = new newClass();
-            Console.WriteLine(newInstantiate.resultInteger);
-
-            //calling the method in the class
-            twoIntegers(int firstInteger = 5, int secondInteger = 11);
-
-        }
-
-
-    }
-
-    //Main Program
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            twoIntegers();
+
+            //defining two int variables
+            int num1 = 3;
+            int num2 = 5;
+
+            //instantiating an object of the class
+            newClass obj1 = newClass();
+
+            //calling the "twoIntegers" method through the "obj1" object, passing in "num1" and "num2"
+            obj1.twoIntegers(num1, num2);
+
+            //calling the "twoIntegers" method again, explicitly passing in values for the parameters
+            obj1.twoIntegers(firstInteger: 6, secondInteger: 8);
+
+            Console.ReadLine();
         }
     }
 }
