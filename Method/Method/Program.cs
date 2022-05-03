@@ -15,7 +15,11 @@ namespace Method
             //multiplying both numbers
             if (y != null)
             {
-                IntegerMethod();
+                Class1 newObject = new Class1();
+
+                //calling methods and displayed integers
+                Console.WriteLine(newObject.IntegerMethod(x,y));
+
             }
             else
             {

@@ -4,9 +4,12 @@ using System.Text;
 
 namespace Method
 {
-    public int IntegerMethod(int x, int y=2)
+    public class Class1
     {
-        int result = x * y;
-        return result;
+        public int IntegerMethod(int x, int y = 2)
+        {
+            int result = x * y;
+            return result;
+        }
     }
 }
