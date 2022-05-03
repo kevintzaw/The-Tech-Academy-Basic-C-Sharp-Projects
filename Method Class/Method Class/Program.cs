@@ -13,7 +13,7 @@ namespace Method_Class
             int num2 = 5;
 
             //instantiating an object of the class
-            newClass obj1 = newClass();
+            NewClass obj1 = new NewClass();
 
             //calling the "twoIntegers" method through the "obj1" object, passing in "num1" and "num2"
             obj1.twoIntegers(num1, num2);
