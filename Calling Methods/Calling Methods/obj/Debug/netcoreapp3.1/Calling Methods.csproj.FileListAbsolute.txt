@@ -1,0 +1,14 @@
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\bin\Debug\netcoreapp3.1\Calling Methods.exe
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\bin\Debug\netcoreapp3.1\Calling Methods.deps.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\bin\Debug\netcoreapp3.1\Calling Methods.runtimeconfig.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\bin\Debug\netcoreapp3.1\Calling Methods.runtimeconfig.dev.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\bin\Debug\netcoreapp3.1\Calling Methods.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\bin\Debug\netcoreapp3.1\Calling Methods.pdb
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\obj\Debug\netcoreapp3.1\Calling Methods.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\obj\Debug\netcoreapp3.1\Calling Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\obj\Debug\netcoreapp3.1\Calling Methods.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\obj\Debug\netcoreapp3.1\Calling Methods.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\obj\Debug\netcoreapp3.1\Calling Methods.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\obj\Debug\netcoreapp3.1\Calling Methods.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\obj\Debug\netcoreapp3.1\Calling Methods.pdb
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\obj\Debug\netcoreapp3.1\Calling Methods.genruntimeconfig.cache
