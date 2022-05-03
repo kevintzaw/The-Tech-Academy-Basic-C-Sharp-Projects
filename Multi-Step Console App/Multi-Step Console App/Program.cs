@@ -90,9 +90,24 @@ namespace Multi_Step_Console_App
 
             //list of strings with identical strings
             List<string> cars = new List<string>() { "toyota", "ford", "ford" };
+            List<string> carsCopy = new List<string>();
 
+            //iterates through the main list
             foreach (string brand in cars)
             {
+                //if the backup list contains the current item from the main list, display a message
+                //saying it has appeared before
+                if(carsCopy.Contains(brand))
+                {
+                    Console.WriteLine(brand + "has appeared before");
+                }
+                //otherwise, display a message saying it has not appeared before
+                else
+                {
+                    Console.WriteLine(brand + "has not appeared before");
+                }
+                //adds the current item from the main list to the backup list
+                carsCopy.Add(brand);
                 Console.WriteLine(brand);
             }
             Console.ReadLine();
