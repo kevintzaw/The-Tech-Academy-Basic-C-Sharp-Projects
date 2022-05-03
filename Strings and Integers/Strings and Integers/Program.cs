@@ -23,11 +23,19 @@ namespace Strings_and_Integers
                 string inputNumber = Console.ReadLine();
                 int valueNumber = Convert.ToInt32(inputNumber);
 
-                //divides each number in list
-                for (int j = 0; j < myValues.Count; j++)
+                if (valueNumber == 0)
                 {
-                    int dividedList = valueNumber / myValues[j];
-                    Console.WriteLine(dividedList);
+                    Console.WriteLine("0 doesn't work");
+                }
+
+                else
+                {
+                    //divides each number in list
+                    for (int j = 0; j < myValues.Count; j++)
+                    {
+                        int dividedList = valueNumber / myValues[j];
+                        Console.WriteLine(dividedList);
+                    }
                 }
             }
 
