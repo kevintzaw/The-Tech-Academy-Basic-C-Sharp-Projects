@@ -3,19 +3,22 @@
 public class operationsClass
 {
 	
-		static void additionMethod(int userValue)
+		public int additionMethod(int userValue)
         {
-			Console.WriteLine(userValue + 7);
+		int result = userValue + 7;
+		return result;
         }
 
-		static void subtractionMethod(int userValue)
+		public int subtractionMethod(int userValue)
         {
-			Console.Write(userValue - 7);
+		int result = userValue - 4;
+		return result;
         }
 
-		static void multiplyMethod(int userValue)
+		public int multiplyMethod(int userValue)
         {
-			Console.Write(userValue * 7);
+		int result = userValue * 5;
+		return result;
 
         }
 	

@@ -5,24 +5,6 @@ namespace Calling_Methods
     
     class Program
     {
-        //addition method
-        static void additionMethod(int userValue)
-        {
-            Console.WriteLine(userValue + 7);
-        }
-
-        //subtraction method
-        static void subtractionMethod(int userValue)
-        {
-            Console.Write(userValue - 7);
-        }
-
-        //multiply method
-        static void multiplyMethod(int userValue)
-        {
-            Console.Write(userValue * 7);
-
-        }
 
         static void Main(string[] args)
         {
@@ -35,8 +17,6 @@ namespace Calling_Methods
             additionMethod(userValue);
             subtractionMethod(userValue);
             multiplyMethod(userValue);
-
-
 
         }
     }
