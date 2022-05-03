@@ -17,15 +17,14 @@ namespace Main_Method
         public int decimalAdditionMethod(decimal x)
         {
             int result = Convert.ToInt32(x);
-            result=result*2;
+            result = result * 2;
             return result;
         }
         //Method for string convert to integer for addition
-        public string stringAdditionMethod(string x)
+        public int stringAdditionMethod(string x)
         {
-            string result = Console.ReadLine();
-            int stringInteger = Convert.ToInt32(result);
-            result = result + 7;
-            return result;
+            int result = Convert.ToInt32(x);
+            return result + 5;
         }
     }
+}
