@@ -8,23 +8,21 @@ namespace Method
         static void Main(string[] args)
         {
             Console.WriteLine("Enter two numbers. The second number is optional");
+            Class1 newObject = new Class1();
             string firstString = Console.ReadLine();
             int x = Convert.ToInt32(firstString);
-            string secondString = Console.ReadLine();
-            int y = Convert.ToInt32(secondString);
-            //multiplying both numbers
-            if (y != null)
+            try
             {
-                Class1 newObject = new Class1();
-
-                //calling methods and displayed integers
-                Console.WriteLine(newObject.IntegerMethod(x,y));
-
+                string secondString = Console.ReadLine();
+                int y = Convert.ToInt32(secondString);
+                Console.WriteLine(newObject.IntegerMethod(x, y));
             }
-            else
+            catch
             {
-                Console.WriteLine("Did not work");
+                Console.WriteLine(newObject.IntegerMethod(x));
             }
+           
+                
         }
     }
 }
