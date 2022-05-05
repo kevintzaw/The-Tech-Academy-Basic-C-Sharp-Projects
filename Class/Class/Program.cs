@@ -1,5 +1,4 @@
-﻿using Class1;
-using System;
+﻿using System;
 
 namespace Class
 {
@@ -9,7 +8,7 @@ namespace Class
         static void Main(string[] args)
         {
             //instantiating a class
-            MathOperation.tryingtoDivide obj1 = MathOperation();
+            MathOperation obj1 = new MathOperation();
 
             //ask the user for a number
             Console.WriteLine("Input a Number");
@@ -17,12 +16,15 @@ namespace Class
             int userNumber = Convert.ToInt32(userValue);
 
             //calling the method to the user number
-            obj1.mathOperation(userNumber);
+            obj1.oneInteger(userNumber);
 
             //creating a method with parameters
-            int outputVariable;
-            mathOperation(outputVariable);
-            mathOperation(out int outputVariable);
+            int outputVariable = 0;
+            obj1.oneInteger(out outputVariable);
+            Console.WriteLine(outputVariable);
+            //Calling a method from static class
+            StaticClass.staticMethod();
+            Console.ReadLine();
             
 
         }
