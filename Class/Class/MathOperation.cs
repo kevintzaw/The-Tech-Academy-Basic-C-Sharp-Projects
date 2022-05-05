@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Class1
+namespace MathOperation
 {
-    public class mathOperation
+    public class tryingtoDivide
     {
         //dividing method
         public void oneInteger(int userInteger)

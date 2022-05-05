@@ -9,7 +9,7 @@ namespace Class
         static void Main(string[] args)
         {
             //instantiating a class
-            Class1.mathOperation obj1 = new mathOperation();
+            MathOperation.tryingtoDivide obj1 = MathOperation();
 
             //ask the user for a number
             Console.WriteLine("Input a Number");
