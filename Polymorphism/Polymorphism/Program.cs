@@ -8,7 +8,7 @@ namespace Polymorphism
         {
             Console.WriteLine("Hello World!");
             //trying to create instance of Interface
-            IQuittable newObj = new IQuittable();
+            IQuittable newObj = new Employee();
             //called method
             newObj.Quit();
 
