@@ -6,15 +6,18 @@ namespace Operatores
 {
     class Employee
     {
+        public int id;
+        public string employeeName1;
+        public string employeeName2;
        
-        public void employeeMethod1(int employee1, int employee2)
+        public static bool operator== (Employee obj1, Employee obj2)
         {
-            Console.WriteLine(employee1 == employee2);
+            return (obj1.id == obj2.id);
         }
 
-        public void employeeMethod2(int employee1, int employee2)
+        public static bool operator!= (Employee obj1, Employee obj2)
         {
-            Console.WriteLine(employee1 != employee2);
+            return (obj1.id != obj2.id);   
         }
     }
 }
