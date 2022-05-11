@@ -6,12 +6,8 @@ namespace Operatores
     {
         static void Main(string[] args)
         {
-            Employee newobj = new Employee(15, 25);
-
-            //overloading operators
-            _ = newobj == newobj;
-
-            Console.WriteLine("Hello World!");
+            Employee newObj1 = new Employee();
+            Employee newObj2 = new Employee();
         }
     }
 }

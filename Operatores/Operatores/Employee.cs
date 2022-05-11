@@ -6,11 +6,15 @@ namespace Operatores
 {
     class Employee
     {
-        public int number1, number2;
-        public Employee(int num1, int num2)
+       
+        public void employeeMethod1(int employee1, int employee2)
         {
-            number1 = num1;
-            number2 = num2;
+            Console.WriteLine(employee1 == employee2);
+        }
+
+        public void employeeMethod2(int employee1, int employee2)
+        {
+            Console.WriteLine(employee1 != employee2);
         }
     }
 }
