@@ -24,10 +24,9 @@ namespace Parsing_Enums
             try
             {
 
-                foreach (string days in daysoftheWeek)
-                {
-                    daysoftheWeek current = daysoftheWeek.days;
-                }
+                daysoftheWeek day = (daysoftheWeek)Enum.Parse(typeof(daysoftheWeek), current);
+                Console.WriteLine("That works!");
+                Console.ReadLine();
             }
             catch
             {

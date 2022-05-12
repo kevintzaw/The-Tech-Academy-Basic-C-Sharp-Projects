@@ -1,0 +1,14 @@
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing Enums\Parsing Enums\bin\Debug\netcoreapp3.1\Parsing Enums.exe
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing Enums\Parsing Enums\bin\Debug\netcoreapp3.1\Parsing Enums.deps.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing Enums\Parsing Enums\bin\Debug\netcoreapp3.1\Parsing Enums.runtimeconfig.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing Enums\Parsing Enums\bin\Debug\netcoreapp3.1\Parsing Enums.runtimeconfig.dev.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing Enums\Parsing Enums\bin\Debug\netcoreapp3.1\Parsing Enums.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing Enums\Parsing Enums\bin\Debug\netcoreapp3.1\Parsing Enums.pdb
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing Enums\Parsing Enums\obj\Debug\netcoreapp3.1\Parsing Enums.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing Enums\Parsing Enums\obj\Debug\netcoreapp3.1\Parsing Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing Enums\Parsing Enums\obj\Debug\netcoreapp3.1\Parsing Enums.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing Enums\Parsing Enums\obj\Debug\netcoreapp3.1\Parsing Enums.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing Enums\Parsing Enums\obj\Debug\netcoreapp3.1\Parsing Enums.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing Enums\Parsing Enums\obj\Debug\netcoreapp3.1\Parsing Enums.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing Enums\Parsing Enums\obj\Debug\netcoreapp3.1\Parsing Enums.pdb
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing Enums\Parsing Enums\obj\Debug\netcoreapp3.1\Parsing Enums.genruntimeconfig.cache
