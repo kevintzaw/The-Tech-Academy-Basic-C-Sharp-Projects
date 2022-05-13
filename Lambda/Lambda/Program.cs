@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Lambda
 {
@@ -21,25 +22,38 @@ namespace Lambda
             employeeNames.Add(new person() { firstName = "Andrea", lastName = "Smith", employeeId = 9 });
             employeeNames.Add(new person() { firstName = "Ava", lastName = "Hamlet", employeeId = 10 });
 
-
-            //foreach loop to display the namers of Joe
-            Console.Write("Names of Joe: ");
-            foreach(var value in employeeNames)
+            List<person> joeList1 = new List<person>();
+            foreach(person employee in employeeNames)
                 {
-                Console.Write("{0} ", employeeNames);
+                if(employee.firstName == "Joe") {
+                    joeList1.Add(employee);
                 }
-            Console.WriteLine();
-
-            //lambda expression
-            var idWithOver5 = employeeNames.Select(employeeId => employeeId > 5);
-
-            //foreach loop to display values
-            Console.Write("Ids with over 5: ");
-            foreach (var value in idWithOver5)
+                
+                }
+            foreach (person employee in joeList1)
             {
-                Console.Write(idWithOver5);
+                Console.WriteLine("{0} {1} {2}", employee.firstName, employee.lastName, employee.employeeId);
             }
-            Console.WriteLine();
+
+            //lambda expression with Joe
+            List<person> joeList2 = employeeNames.Where(x => x.firstName == "Joe").ToList();
+
+            foreach (person employee in joeList2)
+            {
+                Console.WriteLine("{0} {1} {2}", employee.firstName, employee.lastName, employee.employeeId);
+            }
+
+            //lambda expression with Ids over 5
+            List<person> idOver5 = employeeNames.Where(x => x.employeeId > 5).ToList();
+
+            foreach (person employee in idOver5)
+            {
+                Console.WriteLine("{0} {1} {2}", employee.firstName, employee.lastName, employee.employeeId);
+            }
+
+
+
+            Console.ReadLine();
         }
     }
 }
