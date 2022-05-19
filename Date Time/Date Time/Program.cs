@@ -7,22 +7,15 @@ namespace Date_Time
         static void Main(string[] args)
         {
             //string for current time
-            string dateTime = DateTime.Now.ToString("hh:mm:ss tt");
+            var dateTime = DateTime.Now;
             Console.WriteLine(dateTime);
 
-            //convert current time to int
-            int newCalTime = Convert.ToInt32(dateTime);
             //user input value
             Console.WriteLine("Input a number value here");
             string userInput = Console.ReadLine();
             int userTimeInput = Convert.ToInt32(userInput);
 
-            //calculation
-            int intResultTime = userTimeInput + newCalTime;
-
-            //convert Number to Time
-            string stringResultTime = intResultTime.ToString();
-            Console.WriteLine(stringResultTime);
+            Console.WriteLine("{0}+{1} hour(s) = {2}", dateTime, userTimeInput, dateTime.AddHours(userTimeInput));
         }
     }
 }
