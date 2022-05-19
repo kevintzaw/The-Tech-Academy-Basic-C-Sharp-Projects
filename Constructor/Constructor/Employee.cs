@@ -6,19 +6,19 @@ namespace Constructor
 {
     public class Employee
     {
-        public int employeeNumber;
-        //variable using the keyword "var"
-        public string var;
-
+        public int employeeNumber { get; set; }
+        public string employeeName { get; set; }
+        
         public Employee(){
             Console.WriteLine("Reserving new record for the upcoming employee");
         }
-        public Employee(string var){
-            this.var = var;
-            Console.WriteLine("Creating new record for the upcoming employee, with variable string");
+
+        //constructor that takes in one string parameter, then chains with the other constructor
+        public Employee(string name) : this(name, 1)
+        {
         }
-        public Employee( string var, int employeeNumber){
-            this.var = var;
+        public Employee( string name, int employeeNumber){
+            this.employeeName = name;
             this.employeeNumber = employeeNumber;
             Console.WriteLine("Creating new record for the upcoming employee with variable string and employeeNumber.");
         }
