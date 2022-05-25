@@ -1,0 +1,50 @@
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\Final Challenge.exe
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\Final Challenge.deps.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\Final Challenge.runtimeconfig.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\Final Challenge.runtimeconfig.dev.json
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\Final Challenge.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\Final Challenge.pdb
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\Final Challenge.Views.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\Final Challenge.Views.pdb
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.RazorAssemblyInfo.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.RazorAssemblyInfo.cs
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\staticwebassets\Final Challenge.StaticWebAssets.Manifest.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\staticwebassets\Final Challenge.StaticWebAssets.xml
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\scopedcss\bundle\Final Challenge.styles.css
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.TagHelpers.input.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.TagHelpers.output.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.RazorCoreGenerate.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.RazorTargetAssemblyInfo.cache
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.RazorTargetAssemblyInfo.cs
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.Views.pdb
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.csproj.CopyComplete
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.dll
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.pdb
+C:\Users\Kevin\Desktop\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.genruntimeconfig.cache
