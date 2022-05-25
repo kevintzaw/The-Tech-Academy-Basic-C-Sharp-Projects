@@ -50,18 +50,50 @@ namespace CarInsuranceProject.Controllers
         {
             if (ModelState.IsValid)
             {
-                db.Insurees.Add(insuree);
                 //logic changes for quote
-                var quoteCalc = new Insuree();
-                if((DateTime.Now.Year - insuree.DateOfBirth.Year) < 18)
+                insuree.Quote = 50m;
+                if (DateTime.Now.Year - insuree.DateOfBirth.Year < 18)
+                {
+                    insuree.Quote += 100m;
+                }
+                if (25 - DateTime.Now.Year - insuree.DateOfBirth.Year < 6)
+                {
+                    insuree.Quote += 50m;
+                }
+                if (DateTime.Now.Year - insuree.DateOfBirth.Year > 25)
+                {
+                    insuree.Quote += 25m;
+                }
+                if (insuree.CarYear <2000)
+                {
+                    insuree.Quote += 25m;
+                }
+                if (insuree.CarYear > 2015)
+                {
+                    insuree.Quote += 25m;
+                }
+                if (insuree.CarMake == "Porsche")
+                {
+                    insuree.Quote += 25m;
+                    if (insuree.CarModel == "911 Carrera")
                     {
-                    quoteCalc = 10;
+                        insuree.Quote += 25m;
                     }
-                else
-                    {
-                    quoteCalc = 0;
-                    }
+                }
+                if (insuree.SpeedingTickets > 0)
+                {
+                    insuree.Quote += (10m * insuree.SpeedingTickets);
+                }
+                if (insuree.DUI == true)
+                {
+                    insuree.Quote += (.25m * insuree.Quote);
+                }
+                if (insuree.CoverageType == true)
+                {
+                    insuree.Quote += (.50m * insuree.Quote);
+                }
 
+                db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
