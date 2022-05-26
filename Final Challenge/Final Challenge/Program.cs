@@ -1,26 +1,52 @@
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System;
+using System.Data.Entity;
 
 namespace Final_Challenge
 {
-    public class Program
+    class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();
-        }
+            using (var db = new studentDatabaseContext())
+            //Create a new student entry
+            Console.Write("Enter a first name for the student: ");
+            var exampleName = Console.ReadLine();
 
-        public static IHostBuilder CreateHostBuilder(string[] args) =>
-            Host.CreateDefaultBuilder(args)
-                .ConfigureWebHostDefaults(webBuilder =>
-                {
-                    webBuilder.UseStartup<Startup>();
-                });
+            var posts = new studentPost { personName = exampleName };
+            db.studentDatabases.Add(posts);
+            db.SaveChanges();
+
+            // Display all students from the database
+            var query = from b in DbSet.studentDatabases
+                        orderby b.personName
+                        select b;
+            Console.WriteLine("All students in the database: ");
+            foreach (var item in query)
+            {
+                Console.WriteLine(item.Name);
+            }
+            Console.WriteLine("Press any key to exit...");
+            Console.ReadKey();
+        }
+    }
+
+    public class studentDatabase
+    {
+        public string name { get; set; }
+        public int idenNumber { get; set; }
+    }
+
+    public class studentPost
+    {
+        public int PostId { get; set; }
+        public string personName { get; set; }
+        public int idenNumber { get; set; }
+    }
+
+    public class studentDatabaseContext : studentPostsContext
+    {
+        public DbSet<studentDatabase> studentDatabases { get; set; }
+        public DbSet<studentPost> studentPosts { get; set; }
+
     }
 }
