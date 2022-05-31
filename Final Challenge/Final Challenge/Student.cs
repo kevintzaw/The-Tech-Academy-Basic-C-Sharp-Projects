@@ -13,6 +13,5 @@ namespace Final_Challenge
         public decimal Height { get; set; }
         public float Weight { get; set; }
 
-        public Grade Grade { get; set; }
     }
 }
