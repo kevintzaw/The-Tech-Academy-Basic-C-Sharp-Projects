@@ -56,7 +56,7 @@ namespace CarInsuranceProject.Controllers
                 {
                     insuree.Quote += 100m;
                 }
-                if (25 - DateTime.Now.Year - insuree.DateOfBirth.Year < 6)
+                if (25 - (DateTime.Now.Year - insuree.DateOfBirth.Year) < 6)
                 {
                     insuree.Quote += 50m;
                 }
